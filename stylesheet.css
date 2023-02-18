@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "Roboto", sans-serif;
+  background-color: #f7f7f7;
 }
 
 a {
@@ -116,7 +117,6 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
   text-align: center;
 }
 
